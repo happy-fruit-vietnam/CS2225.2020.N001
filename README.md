@@ -19,3 +19,6 @@ Trong đó: 400 bức ảnh là hạt điều đạt chuẩn Bình Phước và 
 # Train mô hình
 Ta chia làm 2 bước chính:
 ## Bước 1: Xác định vị trí hạt điều trên ảnh bằng Yolo V4
+## Bước 2: Phân lớp (classification) hạt điều đạt chuẩn và không đạt chuẩn
+### Chi tiết được trình bày và diễn giải trong link Notebook phía dưới
+Link notebook Google Colab: https://colab.research.google.com/drive/1jTAcvXfqnGlaWCsWS0ulVWBCg3qINnfs?usp=sharing
